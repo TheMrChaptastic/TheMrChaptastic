@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @TheMrChaptastic
 - 👀 I’m interested in pursuing a career in Software Development
-- 🌱 I’m currently learning Java, C#, Javascript, Python
+- 🌱 I’m currently learning Java, C#, SQL, Javascript
 - 📫 chappy@themrchaptastic.com
 
 
