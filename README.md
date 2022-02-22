@@ -1,7 +1,7 @@
 - 👋 Howdy, I’m @TheMrChaptastic
-- 👀 Learning things about Software Development
-- 🌱 C#, SQL, Java
-- 📫 chappy@themrchaptastic.com
+- 👀 Always Learning more about Software Development
+- 🌱 C#, SQL, This and That
+- 📫 chappybunn@outlook.com
 
 
 <!---
