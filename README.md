@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @TheMrChaptastic
 - 👀 Always Learning more about Software Development
-- 🌱 C#, SQL, This and That
+- 🌱 Software Engineer at PradcoOutdoorBrands
 - 📫 chappybunn@outlook.com
 
 
