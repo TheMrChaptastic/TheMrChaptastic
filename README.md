@@ -1,7 +1,7 @@
 - 👋 Howdy, I’m @TheMrChaptastic
-- 👀 Messing around with Java and ASP.NET Core Web Api projects 
-- 🌱 Software Engineer at PradcoOutdoorBrands
-- 📫 chappybunn@outlook.com
+- 👀 Trying new things
+- 👨‍💻 Software Engineer at PradcoOutdoorBrands
+- 📫 chappy@themrchaptastic.com
 
 
 <!---
