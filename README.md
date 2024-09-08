@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @TheMrChaptastic
 - 👀 Trying new things
-- 👨‍💻 Software Engineer at PradcoOutdoorBrands
+- 👨‍💻 Software Engineer at PRADCO Outdoor Brands
 - 📫 chappy@themrchaptastic.com
 
 
